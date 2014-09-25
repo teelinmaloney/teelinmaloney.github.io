@@ -31,9 +31,9 @@
       $.getJSON('channels.json', function(channels) {
         $('.table tbody').append($.map(channels, function(c) {
           return $('<tr>')
-            .append('<td>').text(c.Network)
-            .append('<td>').text(c.Channel)
-            .append('<td>').text(c.ChannelHD);
+            .append($('<td>').text(c.Network))
+            .append($('<td>').text(c.Channel))
+            .append($('<td>').text(c.ChannelHD));
         }));
       });
     });
