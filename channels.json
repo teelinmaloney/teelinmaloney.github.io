@@ -1,467 +1,327 @@
 [
   {
     "Network":"A&E",
-    "Channel":"60-46",
-    "ChannelHD":""
+    "Channel":46,
+    "ChannelHD":218
   },
   {
     "Network":"ABC (WLS)",
-    "Channel":"66-7",
-    "ChannelHD":"77-200"
+    "Channel":7,
+    "ChannelHD":200
   },
   {
     "Network":"ABC Family",
-    "Channel":"62-42",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Access/ Educational",
-    "Channel":"117-17",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Access/ Government",
-    "Channel":"117-6",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Access/ Inspirational",
-    "Channel":"65-15",
-    "ChannelHD":""
+    "Channel":42,
+    "ChannelHD":254
   },
   {
     "Network":"AMC",
-    "Channel":"68-40",
-    "ChannelHD":""
+    "Channel":40,
+    "ChannelHD":236
   },
   {
     "Network":"Animal Planet",
-    "Channel":"59-53",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Antenna TV (WGN)",
-    "Channel":"62-197",
-    "ChannelHD":""
+    "Channel":53,
+    "ChannelHD":226
   },
   {
     "Network":"BET",
-    "Channel":"59-58",
-    "ChannelHD":""
+    "Channel":58,
+    "ChannelHD":285
   },
   {
     "Network":"Big Ten Network",
-    "Channel":"60-87",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Bounce TV (WCIU)",
-    "Channel":"66-196",
-    "ChannelHD":""
+    "Channel":87,
+    "ChannelHD":221
   },
   {
     "Network":"Bravo",
-    "Channel":"61-59",
-    "ChannelHD":""
-  },
-  {
-    "Network":"C-SPAN",
-    "Channel":"64-54",
-    "ChannelHD":""
-  },
-  {
-    "Network":"C-SPAN2",
-    "Channel":"64-188",
-    "ChannelHD":""
-  },
-  {
-    "Network":"C-SPAN3",
-    "Channel":"64-189",
-    "ChannelHD":""
+    "Channel":59,
+    "ChannelHD":235
   },
   {
     "Network":"Cartoon Network",
-    "Channel":"59-41",
-    "ChannelHD":""
+    "Channel":41,
+    "ChannelHD":256
   },
   {
     "Network":"CBS (WBBM)",
-    "Channel":"64-2",
-    "ChannelHD":"94-201"
-  },
-  {
-    "Network":"Church Channel (WWTO)",
-    "Channel":"63-185",
-    "ChannelHD":""
+    "Channel":2,
+    "ChannelHD":201
   },
   {
     "Network":"CMT",
-    "Channel":"66-81",
-    "ChannelHD":""
+    "Channel":81,
+    "ChannelHD":284
   },
   {
     "Network":"CNBC",
-    "Channel":"62-49",
-    "ChannelHD":""
+    "Channel":49,
+    "ChannelHD":244
   },
   {
     "Network":"CNN",
-    "Channel":"61-50",
-    "ChannelHD":""
+    "Channel":50,
+    "ChannelHD":246
   },
   {
     "Network":"Comcast SportsNet Chicago",
-    "Channel":"32-38",
-    "ChannelHD":""
+    "Channel":38,
+    "ChannelHD":220
+  },
+  {
+    "Network":"Comcast SportsNet Plus",
+    "Channel":97,
+    "ChannelHD":297
   },
   {
     "Network":"Comedy Central",
-    "Channel":"62-39",
-    "ChannelHD":""
+    "Channel":39,
+    "ChannelHD":280
   },
   {
-    "Network":"COZI TV",
-    "Channel":"78-130",
-    "ChannelHD":""
+    "Network":"C-SPAN",
+    "Channel":54,
+    "ChannelHD":250
   },
   {
     "Network":"Discovery Channel",
-    "Channel":"60-48",
-    "ChannelHD":""
+    "Channel":48,
+    "ChannelHD":225
   },
   {
     "Network":"Disney Channel",
-    "Channel":"66-44",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Disney XD",
-    "Channel":"68-64",
-    "ChannelHD":""
+    "Channel":44,
+    "ChannelHD":255
   },
   {
     "Network":"E!",
-    "Channel":"60-29",
-    "ChannelHD":""
+    "Channel":29,
+    "ChannelHD":287
   },
   {
     "Network":"ESPN",
-    "Channel":"63-33",
-    "ChannelHD":""
+    "Channel":33,
+    "ChannelHD":211
   },
   {
     "Network":"ESPN 2",
-    "Channel":"63-34",
-    "ChannelHD":""
+    "Channel":34,
+    "ChannelHD":222
   },
   {
     "Network":"Food Network",
-    "Channel":"62-65",
-    "ChannelHD":""
+    "Channel":65,
+    "ChannelHD":217
   },
   {
     "Network":"FOX (WFLD)",
-    "Channel":"65-3",
-    "ChannelHD":"78-202"
+    "Channel":3,
+    "ChannelHD":202
   },
   {
     "Network":"FOX News Channel",
-    "Channel":"62-61",
-    "ChannelHD":""
+    "Channel":61,
+    "ChannelHD":248
   },
   {
     "Network":"FOX Sports 1",
-    "Channel":"59-90",
-    "ChannelHD":""
+    "Channel":90,
+    "ChannelHD":234
   },
   {
     "Network":"FX",
-    "Channel":"63-63",
-    "ChannelHD":""
-  },
-  {
-    "Network":"FXX",
-    "Channel":"68-35",
-    "ChannelHD":""
+    "Channel":63,
+    "ChannelHD":231
   },
   {
     "Network":"Golf Channel",
-    "Channel":"59-60",
-    "ChannelHD":""
+    "Channel":60,
+    "ChannelHD":223
   },
   {
     "Network":"Hallmark Channel",
-    "Channel":"59-88",
-    "ChannelHD":""
+    "Channel":88,
+    "ChannelHD":272
   },
   {
     "Network":"Hallmark Movie Channel",
-    "Channel":"66-71",
-    "ChannelHD":""
+    "Channel":71,
+    "ChannelHD":288
   },
   {
     "Network":"HGTV",
-    "Channel":"62-55",
-    "ChannelHD":""
+    "Channel":55,
+    "ChannelHD":216
   },
   {
     "Network":"History Channel",
-    "Channel":"60-47",
-    "ChannelHD":""
+    "Channel":47,
+    "ChannelHD":249
   },
   {
     "Network":"HLN",
-    "Channel":"61-51",
-    "ChannelHD":""
+    "Channel":51,
+    "ChannelHD":252
   },
   {
     "Network":"HSN",
-    "Channel":"64-23",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Independent (WJYS)",
-    "Channel":"66-13",
-    "ChannelHD":""
+    "Channel":23,
+    "ChannelHD":276
   },
   {
     "Network":"Investigation Discovery",
-    "Channel":"65-83",
-    "ChannelHD":""
+    "Channel":83,
+    "ChannelHD":253
   },
   {
     "Network":"ION (WCPX)",
-    "Channel":"65-12",
-    "ChannelHD":"73-208"
-  },
-  {
-    "Network":"JCTV",
-    "Channel":"63-186",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Jewelry TV",
-    "Channel":"",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Jewelry TV",
-    "Channel":"77-190",
-    "ChannelHD":""
+    "Channel":12,
+    "ChannelHD":208
   },
   {
     "Network":"Lifetime",
-    "Channel":"60-30",
-    "ChannelHD":""
+    "Channel":30,
+    "ChannelHD":274
+  },
+  {
+    "Network":"Lifetime Movie Network",
+    "Channel":64,
+    "ChannelHD":275
   },
   {
     "Network":"Live Well (WLS)",
-    "Channel":"93-101",
-    "ChannelHD":"73-219"
-  },
-  {
-    "Network":"Me - Too (WMEU)",
-    "Channel":"60-171",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Me - TV (WWME)",
-    "Channel":"66-198",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Movies!",
-    "Channel":"73-199",
-    "ChannelHD":""
+    "Channel":null,
+    "ChannelHD":219
   },
   {
     "Network":"MSNBC",
-    "Channel":"62-52",
-    "ChannelHD":""
+    "Channel":52,
+    "ChannelHD":245
   },
   {
     "Network":"MTV",
-    "Channel":"61-37",
-    "ChannelHD":""
-  },
-  {
-    "Network":"MTV2",
-    "Channel":"68-32",
-    "ChannelHD":""
+    "Channel":37,
+    "ChannelHD":282
   },
   {
     "Network":"MyNetworkTV (WPWR)",
-    "Channel":"64-8",
-    "ChannelHD":"93-204"
+    "Channel":8,
+    "ChannelHD":204
   },
   {
     "Network":"National Geographic",
-    "Channel":"69-72",
-    "ChannelHD":""
+    "Channel":72,
+    "ChannelHD":228
   },
   {
     "Network":"NBC (WMAQ)",
-    "Channel":"64-5",
-    "ChannelHD":"77-203"
+    "Channel":5,
+    "ChannelHD":203
+  },
+  {
+    "Network":"NBC Sports Network",
+    "Channel":86,
+    "ChannelHD":212
   },
   {
     "Network":"Nickelodeon",
-    "Channel":"61-28",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Nicktoons",
-    "Channel":"65-100",
-    "ChannelHD":""
-  },
-  {
-    "Network":"OWN",
-    "Channel":"68-68",
-    "ChannelHD":""
+    "Channel":28,
+    "ChannelHD":258
   },
   {
     "Network":"Oxygen",
-    "Channel":"68-70",
-    "ChannelHD":""
+    "Channel":70,
+    "ChannelHD":273
   },
   {
     "Network":"PBS (WTTW)",
-    "Channel":"64-11",
-    "ChannelHD":"93-205"
-  },
-  {
-    "Network":"PBS (WYCC)",
-    "Channel":"64-20",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Public Access",
-    "Channel":"117-14",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Public Access",
-    "Channel":"117-24",
-    "ChannelHD":""
+    "Channel":11,
+    "ChannelHD":205
   },
   {
     "Network":"QVC",
-    "Channel":"65-31",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Shop NBC",
-    "Channel":"66-56",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Smile of a Child (WWTO)",
-    "Channel":"63-187",
-    "ChannelHD":""
-  },
-  {
-    "Network":"SonLife Network",
-    "Channel":"65-194",
-    "ChannelHD":""
+    "Channel":31,
+    "ChannelHD":277
   },
   {
     "Network":"Spike TV",
-    "Channel":"62-57",
-    "ChannelHD":""
+    "Channel":57,
+    "ChannelHD":239
   },
   {
     "Network":"SyFy",
-    "Channel":"59-45",
-    "ChannelHD":""
-  },
-  {
-    "Network":"TBN (WWTO)",
-    "Channel":"73-193",
-    "ChannelHD":""
+    "Channel":45,
+    "ChannelHD":230
   },
   {
     "Network":"TBS",
-    "Channel":"61-22",
-    "ChannelHD":""
+    "Channel":73,
+    "ChannelHD":232
   },
   {
     "Network":"Telemundo",
-    "Channel":"66-4",
-    "ChannelHD":""
+    "Channel":4,
+    "ChannelHD":224
   },
   {
     "Network":"The CW (WGN)",
-    "Channel":"65-9",
-    "ChannelHD":"78-206"
+    "Channel":9,
+    "ChannelHD":206
   },
   {
     "Network":"The U (WCIU)",
-    "Channel":"66-10",
-    "ChannelHD":"94-207"
+    "Channel":10,
+    "ChannelHD":207
   },
   {
     "Network":"The Weather Channel",
-    "Channel":"63-62",
-    "ChannelHD":""
-  },
-  {
-    "Network":"This TV (WGN)",
-    "Channel":"94-195",
-    "ChannelHD":""
+    "Channel":62,
+    "ChannelHD":263
   },
   {
     "Network":"TLC",
-    "Channel":"60-25",
-    "ChannelHD":""
+    "Channel":25,
+    "ChannelHD":227
   },
   {
     "Network":"TNT",
-    "Channel":"61-27",
-    "ChannelHD":""
-  },
-  {
-    "Network":"Touch (WMEU)",
-    "Channel":"77-184",
-    "ChannelHD":""
+    "Channel":27,
+    "ChannelHD":209
   },
   {
     "Network":"Travel Channel",
-    "Channel":"59-69",
-    "ChannelHD":""
+    "Channel":69,
+    "ChannelHD":264
   },
   {
     "Network":"truTV",
-    "Channel":"63-67",
-    "ChannelHD":""
+    "Channel":67,
+    "ChannelHD":279
   },
   {
     "Network":"Turner Classic Movies",
-    "Channel":"65-43",
-    "ChannelHD":""
-  },
-  {
-    "Network":"TV Land",
-    "Channel":"59-66",
-    "ChannelHD":""
+    "Channel":43,
+    "ChannelHD":238
   },
   {
     "Network":"USA",
-    "Channel":"60-26",
-    "ChannelHD":""
-  },
-  {
-    "Network":"UTOO",
-    "Channel":"61-170",
-    "ChannelHD":""
+    "Channel":26,
+    "ChannelHD":233
   },
   {
     "Network":"Velocity HD",
-    "Channel":"",
-    "ChannelHD":""
+    "Channel":null,
+    "ChannelHD":210
   },
   {
     "Network":"VH1",
-    "Channel":"61-36",
-    "ChannelHD":""
+    "Channel":36,
+    "ChannelHD":283
+  },
+  {
+    "Network":"WE TV",
+    "Channel":74,
+    "ChannelHD":294
   }
 ]
